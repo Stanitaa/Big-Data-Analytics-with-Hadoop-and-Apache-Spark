@@ -8,7 +8,6 @@
 * [Goals](#goals)
 * [Technologies](#technologies)
 * [License](#license)
-* [Author](#author) 
 
 ## Background 
 
@@ -72,9 +71,4 @@ Driver type includes 15.3 GB Memory, 2 Cores and 1 DBU. It is the default resour
 
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-## Author
-
-[levist7](https://github.com/levist7)
-
----
 
